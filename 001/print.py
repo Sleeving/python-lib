@@ -1,1 +1,1 @@
-print('I'm not a normie')
+print('Im not a normie')

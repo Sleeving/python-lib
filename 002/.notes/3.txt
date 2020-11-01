@@ -1,0 +1,4 @@
+Type conversion
+
+You cannot concatenate strings and integers, therefore you must convert strings into an integer or float
+

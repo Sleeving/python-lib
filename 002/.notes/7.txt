@@ -1,0 +1,15 @@
+Arithmetic Operations
+
+The same operations that we have in math
+These operations are: +, -, *, **, /, //, !=, ==, <, <=, >, >=, %,
+We also have an augmented assignment operator. This is if you want to increment a variable
+Do this by using the +=
+You can also do this by declaring a variable to the original variable and adding another operator.
+
+Operator Precedence
+
+In python, if you use different operators in a single equation it uses PEMDAS/BEDMAS to determine it.
+Just like PEMDAS, you can use brackets to do the equation in brackets first.
+
+
+

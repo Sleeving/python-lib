@@ -1,0 +1,14 @@
+Strings
+
+You can use single or double quotes to call a string. However, there is a time and place for each
+For example, if you have an apostrophe in your string, you cant use single quotes
+Same goes with the for statement
+It's the same vice versa as well, for example if you want quotation marks in your string
+If you want to define a string that has multiple lines, use triple quotes ''' '''
+We can use square brackets to get a character at a given index in a string
+You can also use a negative index which goes back to the end of the string
+A string's characters start from 0
+You can also use a colon to call a group of indexes
+When using colons, if you leave nothing there, it interprets it as 0
+
+

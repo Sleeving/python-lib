@@ -1,0 +1,14 @@
+Variables
+
+Variables are fundamental in programming
+We use variables to temporarily store data in a computers memory
+When printing a variable, dont use quotation marks to print the value of the variable
+Start with an identifier, then use an equals sign, then write the value
+When a value is about to be stored, it will get converted to its binary representation
+You can also change a variables value by putting it on a lower line because python's interpreter interprets code line by line
+A whole number is called an integer. Numbers with decimals are called floats.
+We also have boolean conditions in python, which is a true or false statement
+Python is case sensitive, which means that if a string has incorrect caps it can't recognize it
+When calling a string that isnt an integer, float or boolean, use quotes
+You can use # to comment out code (single line)
+

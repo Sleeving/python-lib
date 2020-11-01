@@ -1,0 +1,6 @@
+Receiving inputs
+
+use the input() tag
+input and print are remote functions built into python
+If you add a space, it'll allow you to interact with the terminal
+you can use symbols to concatenate strings

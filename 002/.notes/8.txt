@@ -1,0 +1,7 @@
+Math Functions
+
+You can use the round function to round a number
+You can use the abs function to return a statement positive, even if the result is negative
+A module in python is a separate file with some reusable code
+In this case, we would import the math module as it has lots of functions that is useful for us
+

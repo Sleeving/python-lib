@@ -1,0 +1,4 @@
+If Statements
+
+If statements are very important not only in python, but in all programming
+They allow is to build programs to make decisions based on the input given

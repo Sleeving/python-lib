@@ -1,0 +1,6 @@
+Formatted Strings
+
+Formatted strings are useful in situations where you want to dynamically generate text with your variables
+To define a formatted string use an 'f' tag followed by curly braces to call variables
+These curly braces are called holes.
+We use formatted strings to make concatenated strings easier to read

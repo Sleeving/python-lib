@@ -1,0 +1,5 @@
+While Loops
+
+We use while loops to execute a block of code multiple times.
+If you dont add a statement to increment a variable while using a while loop, it will execute forever.
+Also while using a while loop, if you use a string rather than a number, the string will increment by how much it is.

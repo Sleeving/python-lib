@@ -1,0 +1,6 @@
+Building a Guessing Game
+
+In this project, we attempt to build a guessing game using a while loop
+You get three tries to guess, and if its wrong, the game ends
+If you guess right, "correct" is printed on the screen
+The break statement terminates our while loop

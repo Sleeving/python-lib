@@ -1,0 +1,8 @@
+For Loops
+
+We can initiate a for loop using the for statement followed by a variable
+From here you can do things such as call a string and use the in statement
+If you were to print that variable in the for loop block you would get the characters in the string horizontal
+This can be used for lists
+You can also use square brackets to define a list
+When using the range function, the range starts at 0 rather than 1

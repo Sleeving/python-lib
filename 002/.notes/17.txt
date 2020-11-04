@@ -1,0 +1,3 @@
+Nested Loops
+
+We can use nested loops to calculate a list easily.

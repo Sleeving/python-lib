@@ -5,4 +5,4 @@ This is useful when we receive input from a user
 For example, when signing up for a site, we can use the len function to call how many characters are in a name
 From there you can do things like put a character limit
 the in expression is a boolean expression that determines if your condition is correct
-You can call operators by using dots
+You can call variables by using dots

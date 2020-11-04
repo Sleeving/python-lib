@@ -1,2 +1,7 @@
 Logical Operators
 
+We use logical operators to combine two conditions. You can do this with an if statement, and more.
+There are many logical operators. Such as and, or, and not
+And: both are true
+Or: at least one is true
+Not: reverts the boolean value given

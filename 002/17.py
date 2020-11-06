@@ -1,6 +1,9 @@
 # for x in range(4):
     # for y in range(3):
         # print(f'({x}, {y})')
-numbers = [5, 1, 3, 1, 5]
+numbers = [2, 2, 2, 2, 5]
 for x_count in numbers:
-    print(x_count * 'x')
+    output = ''
+    for count in range(x_count):
+        output += 'x'
+    print(output)

@@ -1,3 +1,4 @@
 Nested Loops
 
-We can use nested loops to calculate a list easily.
+Adding one loop inside of another loop.
+You can use these to generate a list of coordinates.

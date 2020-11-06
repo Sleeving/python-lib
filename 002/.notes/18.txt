@@ -1,0 +1,5 @@
+Lists
+
+We can use square brackets in a list to output which part of the list you want
+We can use colons to output multiple list elements
+You can return items in an index even if it goes too far

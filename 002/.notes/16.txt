@@ -1,6 +1,9 @@
 For Loops
 
+We use for loops to iterate items over a collection, such as a string
+We can iterate over characters in a string using a for loop, and do something with it.
 We can initiate a for loop using the for statement followed by a variable
+When you type for and then the loop variable, it has multiple iterations. In each one, it holds one item of information.
 From here you can do things such as call a string and use the in statement
 If you were to print that variable in the for loop block you would get the characters in the string horizontal
 This can be used for lists

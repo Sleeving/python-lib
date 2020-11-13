@@ -1,0 +1,4 @@
+List Methods
+
+These are the operations that we can perform in a list
+We can add new items to a list, remove items, check for items, and more

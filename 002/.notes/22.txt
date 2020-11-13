@@ -1,0 +1,6 @@
+Unpacking
+
+Unpacking is a powerful feature we have in python
+If we want to get values in a formula, we can use unpacking in a tuple
+Just use commas instead of assigning new variables line by line and assign them to the tuple.
+

@@ -1,0 +1,7 @@
+Keyword Arguments
+
+Arguments in positions matter when working with functions. Thats why theyre called positional arguments.
+There are also keyword arguments, they come out with the same result regardless of the position theyre in.
+For the most part, use positional arguments, but when sometimes working with numerical variables, use keyword arguments
+Dont mix positional and keyword arguments, if the keyword argument is already in the front.
+

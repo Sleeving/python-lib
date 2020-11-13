@@ -1,0 +1,3 @@
+Reusable Function
+
+We create reusable functions by using the def statement.

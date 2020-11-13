@@ -1,0 +1,7 @@
+Exceptions
+
+Exceptions are errors.
+In python we have methods called try and except.
+We use them to handle errors.
+Using those statements, we can create cleaner error messages and troubleshoot more easily.
+exit code 0 means that the program didnt crash, and using the except statement makes it not crash

@@ -1,0 +1,4 @@
+Return Statement
+
+Return statements return values.
+When you return a value, you can use it just like normal functions.

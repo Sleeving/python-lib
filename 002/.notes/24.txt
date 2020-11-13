@@ -1,0 +1,3 @@
+Emoji Converter
+
+Something really cool you can do with dictionaries is integrate emojis in them

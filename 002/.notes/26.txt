@@ -1,0 +1,11 @@
+Parameters
+
+To pass information to our functions
+you can pass a variable inside the brackets of the function variable
+Then enter the variable value when calling the function
+Then you can pass the information inside the function
+You can call the function multiple times by reusing the function
+This is why they are good because we can enter a block of code that does a task and reuse it multiple times
+If we are passing a parameter in a function we are obligated to put something in it or else we will get an error
+Parameters are placeholders inside a function, arguments are the actual pieces of information that we supply.
+We can use commas to use multiple arguments and parameters.

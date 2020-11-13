@@ -1,0 +1,6 @@
+Dictionaries
+
+We use dictionaries in python to store data that comes in key-valued pairs.
+An example of a key-valued pair is a phone number and email and name
+we use dictionaries to store information those key values.
+To look at it, each definition in a dictionary is printed only one time, which is why you cant have multiple items in a dictionary

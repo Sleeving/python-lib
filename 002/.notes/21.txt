@@ -1,0 +1,4 @@
+Tuples
+
+Tuples are basically lists that cannot be changed.
+We can only get info from a tuple, not change it.

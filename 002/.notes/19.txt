@@ -1,0 +1,8 @@
+2D Lists
+
+2D lists are extremely powerful, they can often be used in data science
+A rectangular array of numbers in math is called a matrix
+In python, we can model this using a 2D list.
+This means that each item in this list is another list
+If we use two sets of square brackets, we can call individual numbers in the list in a matrix
+

@@ -1,0 +1,5 @@
+Constructors
+
+We can create a point object without an x or u coordinate
+A constructor gets called at the time of creating an object
+

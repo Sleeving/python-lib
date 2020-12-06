@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3f703225-0a15-4c11-adf6-8390ef487cff" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/virtualenv/Scripts/Activate.ps1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/virtualenv/Scripts/activate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/virtualenv/Scripts/activate.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/virtualenv/Scripts/deactivate.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/virtualenv/Scripts/easy_install-3.9.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/virtualenv/Scripts/easy_install.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/virtualenv/Scripts/pip.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/virtualenv/Scripts/pip3.9.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/virtualenv/Scripts/pip3.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/virtualenv/Scripts/python.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/virtualenv/Scripts/pythonw.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/virtualenv/pyvenv.cfg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/002/.notes/1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/002/.notes/2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/002/.notes/3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/002/.notes/32.txt" beforeDir="false" afterPath="$PROJECT_DIR$/002/.notes/32.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/002/.notes/33.txt" beforeDir="false" afterPath="$PROJECT_DIR$/002/.notes/33.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/002/.notes/34.txt" beforeDir="false" afterPath="$PROJECT_DIR$/002/.notes/34.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/002/.notes/35.txt" beforeDir="false" afterPath="$PROJECT_DIR$/002/.notes/35.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/002/.notes/4.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/002/.notes/5.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/002/.notes/6.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/002/.notes/7.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/002/.notes/8.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/002/.notes/9.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/002/1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/002/2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/002/3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/002/31.py" beforeDir="false" afterPath="$PROJECT_DIR$/002/31.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/002/32.py" beforeDir="false" afterPath="$PROJECT_DIR$/002/32.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/002/33.py" beforeDir="false" afterPath="$PROJECT_DIR$/002/33.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/002/34.py" beforeDir="false" afterPath="$PROJECT_DIR$/002/34.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/002/35.py" beforeDir="false" afterPath="$PROJECT_DIR$/002/35.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/002/36.py" beforeDir="false" afterPath="$PROJECT_DIR$/002/36.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/002/4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/002/5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/002/6.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/002/7.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/002/8.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/002/9.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/002/1.py" />
+        <option value="$PROJECT_DIR$/002/31.py" />
+        <option value="$PROJECT_DIR$/002/.notes/32.txt" />
+        <option value="$PROJECT_DIR$/002/.notes/33.txt" />
+        <option value="$PROJECT_DIR$/002/32.py" />
+        <option value="$PROJECT_DIR$/002/33.py" />
+        <option value="$PROJECT_DIR$/002/.notes/34.txt" />
+        <option value="$PROJECT_DIR$/002/34.py" />
+        <option value="$PROJECT_DIR$/002/36.py" />
+        <option value="$PROJECT_DIR$/002/.notes/35.txt" />
+        <option value="$PROJECT_DIR$/002/35.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1lCVucfNeFrJC2UP4jmTzKHqo0P" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Python.33">
+    <configuration name="1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="riderModule" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/002" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/002/1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="32" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="riderModule" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/002" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/002/32.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="33" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="riderModule" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/002" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/002/33.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="36" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="riderModule" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/002" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/002/36.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.33" />
+        <item itemvalue="Python.32" />
+        <item itemvalue="Python.32" />
+        <item itemvalue="Python.32" />
+        <item itemvalue="Python.36" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3f703225-0a15-4c11-adf6-8390ef487cff" name="Default Changelist" comment="" />
+      <created>1607101285417</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607101285417</updated>
+      <workItem from="1607101288756" duration="354000" />
+      <workItem from="1607124336799" duration="647000" />
+      <workItem from="1607281784466" duration="5065000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="739" y="274" key="FileChooserDialogImpl" timestamp="1607101593653">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="739" y="274" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1607101593653" />
+    <state x="461" y="164" key="SettingsEditor" timestamp="1607101643642">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1607101643642" />
+  </component>
+</project>

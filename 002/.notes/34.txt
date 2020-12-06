@@ -1,0 +1,4 @@
+Inheritance
+
+When using the class method, we don't want to duplicate the same functions into different classes.
+Dont repeat yourself (DRY)

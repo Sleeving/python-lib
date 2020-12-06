@@ -1,0 +1,9 @@
+Classes
+
+We use classes to define new types
+Basic types are numbers, string, and boolean
+We can use classes to define new types to model real world items
+Capitalize new class names
+Once we're done with defining our class, we can start with our objects
+The class creates the blueprint for the objects or instances
+Then we can use attributes that we can use in our programs

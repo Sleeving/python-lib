@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.240.0_x64__qbz5n2kfra8p0\DLLs" t="IncludeRecursive" />
+    <e p="C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.240.0_x64__qbz5n2kfra8p0\Lib" t="IncludeRecursive" />
+    <e p="C:\Users\user1\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\user1\AppData\Local\JetBrains\Rider2020.2\python_stubs\2092479558" t="IncludeRecursive" />
+    <e p="C:\Users\user1\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_.19.00" t="ExcludeRecursive" />
+    <e p="C:\Users\user1\AppData\Local\Microsoft\WindowsApps\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0" t="IncludeRecursive" />
+    <e p="C:\Users\user1\AppData\Roaming\JetBrains\Rider2020.2\plugins\python-ce\helpers\python-skeletons" t="IncludeRecursive" />
+    <e p="C:\Users\user1\AppData\Roaming\JetBrains\Rider2020.2\plugins\python-ce\helpers\typeshed\stdlib\2and3" t="IncludeRecursive" />
+    <e p="C:\Users\user1\AppData\Roaming\JetBrains\Rider2020.2\plugins\python-ce\helpers\typeshed\stdlib\3" t="IncludeRecursive" />
+    <e p="C:\Users\user1\AppData\Roaming\JetBrains\Rider2020.2\plugins\python-ce\helpers\typeshed\stdlib\3.7" t="IncludeRecursive" />
+    <e p="C:\Users\user1\AppData\Roaming\JetBrains\Rider2020.2\plugins\python-ce\helpers\typeshed\third_party\2and3" t="IncludeRecursive" />
+    <e p="C:\Users\user1\AppData\Roaming\JetBrains\Rider2020.2\plugins\python-ce\helpers\typeshed\third_party\3" t="IncludeRecursive" />
+    <e p="C:\Users\user1\Documents\GitHub\python-lib" t="IncludeFlat">
+      <e p="virtualenv" t="IncludeRecursive">
+        <e p="Lib\site-packages" t="IncludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>
